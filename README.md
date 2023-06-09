@@ -1,12 +1,13 @@
 
 # Hello there! 👋
 
-My name is Collins CU.
+My name is Collins CU 😎.
 
-I am a student studying Programming at W3Schools.com.
+I am a student studying Programming at W3Schools.com.👨‍💻
 I am passionate about becoming a full stack developer.
-I am currently learning web development.
-I have started my journey in the tech industry.
+I am currently learning web development (JavaScript).🖥️💻
+I have started my journey in the tech industry and I hope to add to it in order to improve the industry.👨‍👩‍👦‍👦💪
+I am enthusiastic about it.😀😁
 You can contact me on Facebook at https://www.facebook/collins.cu.5/ and on GitHub at https://www.github.com/CollinsCU/
 
 
