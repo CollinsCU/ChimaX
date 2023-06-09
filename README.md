@@ -8,7 +8,7 @@ I am passionate about becoming a full stack developer.
 I am currently learning web development (JavaScript).🖥️💻
 I have started my journey in the tech industry and I hope to add to it in order to improve the industry.👨‍👩‍👦‍👦💪
 I am enthusiastic about it.😀😁
-You can contact me on Facebook at https://www.facebook/collins.cu.5/ and on GitHub at https://www.github.com/CollinsCU/
+You can contact me on Facebook at https://www.facebook/collins.cu.5/ on GitHub at https://www.github.com/CollinsCU/ and on Instagram at https://www.instagram.com/collins_cu_5/
 
 
 <!---
